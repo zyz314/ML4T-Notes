@@ -4,7 +4,7 @@ Tips for Exams: Go through example papers from last year and its literally a pie
 
 ## Preparation plan - Exam 1
 ### Week 1
-
+    
 Lecture 01-01 : 5,9,14
 Lecture 01-02 : 6,7,9,13,14,15, 18
 Lecture 01-03 : 4,5,7,10,12,15,
